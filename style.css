@@ -48,7 +48,7 @@ body{
 }
 #mainContainer4{
     background-color: rgb(255,255,255,0.4);
-    height: 250px;
+    height: 300px;
     box-shadow: 2px 2px 8px lightgray;
 }
 #formcontainer{
@@ -93,4 +93,8 @@ select{
 }
 #alert2{
     display: none;
+}
+img{
+    height: 250px;
+    width: 100%;
 }
